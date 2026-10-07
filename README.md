@@ -5,7 +5,8 @@
 **Ürün odaklı Web & Mobil Geliştirici**
 
 OSTİM Teknik Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim.<br>
-Fikirleri tasarımdan yayına kadar uçtan uca çalışan ürünlere dönüştürüyorum.
+Fikirleri tasarımdan yayına kadar uçtan uca çalışan ürünlere dönüştürüyorum.<br>
+Arayüz tasarlamayı ve kullanıcı deneyimini her kararın merkezine koymayı seviyorum. 🎨
 
 [![aruntas.com](https://img.shields.io/badge/aruntas.com-ff5a1f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aruntas.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://linkedin.com/in/yusuferkamaruntas)
@@ -31,7 +32,7 @@ Fotoğrafları yapay zekâ ile dört adımda kişiye özel mücevher tasarımlar
 `Node.js` `JavaScript` `PostgreSQL (Supabase)` `iyzico` `fal.ai` · [Kaynak kod →](https://github.com/erkamaruntas/atelify)
 
 ### 📱 [Subtification](https://subtification.aruntas.com)
-Abonelik ve taksitleri takip eden iOS uygulaması: ödeme takvimi, bütçe analizi, hatırlatmalar, çevrimdışı kullanım ve misafir modu. *App Store onay sürecinde.*
+Abonelik ve taksitleri takip eden iOS uygulaması: ödeme takvimi, bütçe analizi, hatırlatmalar, çevrimdışı kullanım ve misafir modu. Açık/koyu tema ve akıcı animasyonlarla kullanıcı deneyimi ön planda. *App Store onay sürecinde.*
 
 `React Native (Expo)` `TypeScript` `PostgreSQL (Supabase)` `Zustand` · [Kaynak kod →](https://github.com/erkamaruntas/subtification)
 
