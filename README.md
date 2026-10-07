@@ -15,6 +15,14 @@ Fikirleri tasarımdan yayına kadar uçtan uca çalışan ürünlere dönüştü
 
 ---
 
+## 💼 Deneyim
+
+**Barikat Siber Güvenlik** · Siber Güvenlik Stajyeri (Security Operations) · *Haziran – Temmuz 2025*
+- Security Operations ekibiyle TCP/IP, subnetting, routing ve switching gibi ağ temelleri üzerine uygulamalı çalışmalar yaptım.
+- Ekibin günlük güvenlik operasyonlarını ve kurumsal siber güvenlik süreçlerini yakından gözlemledim.
+
+---
+
 ## 🚀 Projeler
 
 ### 💎 [Atelify](https://atelify.aruntas.com)
