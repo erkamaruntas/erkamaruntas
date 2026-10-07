@@ -2,7 +2,7 @@
 
 # Merhaba, ben Yusuf Erkam 👋
 
-**Ürün odaklı Web & Mobil Geliştirici**
+**Ürün ve kullanıcı deneyimi odaklı Web & Mobil Geliştirici**
 
 OSTİM Teknik Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim.<br>
 Fikirleri tasarımdan yayına kadar uçtan uca çalışan ürünlere dönüştürüyorum.<br>
